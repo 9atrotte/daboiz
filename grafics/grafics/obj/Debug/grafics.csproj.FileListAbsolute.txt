@@ -1,0 +1,10 @@
+K:\12AI\programming\grafics\grafics\bin\Debug\grafics.exe.config
+K:\12AI\programming\grafics\grafics\bin\Debug\grafics.exe
+K:\12AI\programming\grafics\grafics\bin\Debug\grafics.pdb
+K:\12AI\programming\grafics\grafics\obj\Debug\grafics.csprojAssemblyReference.cache
+K:\12AI\programming\grafics\grafics\obj\Debug\grafics.Form1.resources
+K:\12AI\programming\grafics\grafics\obj\Debug\grafics.Properties.Resources.resources
+K:\12AI\programming\grafics\grafics\obj\Debug\grafics.csproj.GenerateResource.cache
+K:\12AI\programming\grafics\grafics\obj\Debug\grafics.csproj.CoreCompileInputs.cache
+K:\12AI\programming\grafics\grafics\obj\Debug\grafics.exe
+K:\12AI\programming\grafics\grafics\obj\Debug\grafics.pdb
